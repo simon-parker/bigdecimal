@@ -1,6 +1,6 @@
-# Arbitrary-Precision Arithmetic in GPL
+# Arbitrary-Precision Arithmetic
 
-The GPL project and supporting libraries will contain a large amount of calculation code dealing with monetary values. Precise arbitrary-precision arithmetic is required. Java supports this using the `BigDecimal` class. Below is a comparison of the treatment of `BigDecimal` in the most popular JVM-based languages.
+For a large amount of calculation code dealing with monetary values, precise arbitrary-precision arithmetic is required. Java supports this using the `BigDecimal` class. Below is a comparison of the treatment of `BigDecimal` in the most popular JVM-based languages.
 
 
 ## New Instances
